@@ -1,16 +1,26 @@
-## Hi there 👋
+<h2 align="center">👋 Hello from Vishuddhanand Manjhi</h2>
 
-<!--
-**VishuManjhi008/VishuManjhi008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🛠️ This is my <strong>backup GitHub account</strong>.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Main GitHub Profile
+👉 Visit my main account here: [@VishuManjhi](https://github.com/VishuManjhi)  
+It contains my full project history, contributions, and active repositories.
+
+---
+
+### 📁 About This Account
+- This account hosts selected repositories as a secondary copy.
+- All original work is maintained and updated on my main GitHub profile.
+
+---
+
+### 🙌 Thank You!
+Thanks for visiting. Feel free to check out the work here or on my main account!
+
+---
+
+<p align="center">Built with 💻 and curiosity.</p>
